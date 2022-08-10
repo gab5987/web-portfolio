@@ -1,7 +1,8 @@
 {
     "basic_info": {
       "description_header": "Olá",
-      "description": "👋 Me chamo Gabriel Novalski. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nisi, volutpat eget ultrices ut, tempor faucibus tellus. Sed consequat ex rhoncus dignissim posuere. Integer malesuada eros vestibulum ornare blandit. ",
+      "description": "👋 Me chamo Gabriel Gonçalves Novalski, Tenho 19 anos e sou natural de Florianópolis. Atualmente venho explorando o mundo da tecnologia e do desenvolvimento de software. ",
+      "description2": "Me interesso pelo desenvolvimento de apps e IoT. Para toda a parte de Back-end, eu uso principalmente o JavaScript. Estou buscando ampliar meus conhecimentos na área do Back-end com C# e ganhar experiência na área do Front-end com Angular e React.",
       "contact1": "Gostou do meu perfil? Quer me conhecer um pouco mais?",
       "contact2": "Não hesite em me mandar uma mensagem, estou te esperando ;)",
       "mailMe": "Enviar email para Gabriel",
@@ -20,7 +21,7 @@
       },
       {
         "company": "Udemy.com",
-        "title": "curso de JavaScript / TypeScript",
+        "title": "Curso de JavaScript / TypeScript",
         "years": "06 / 2022 - present"
       },
       {
@@ -29,4 +30,4 @@
         "years": "08 / 2022 - present"
       }
     ]
-  }
+}

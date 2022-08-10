@@ -1,7 +1,8 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Gabriel Novalski. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nisi, volutpat eget ultrices ut, tempor faucibus tellus. Sed consequat ex rhoncus dignissim posuere. Integer malesuada eros vestibulum ornare blandit. ",
+      "description": "👋 My name is Gabriel Gonçalves Novalski, I'm 19 years old and I'm from Florianópolis, Brazil. I am currently exploring the world of technology and software development.",
+      "description2": "I'm interested in app development and IoT. For the whole Backend part, I mainly use JavaScript. I'm looking to expand my knowledge in the Back-end area with C# and gain experience in Front-end area with Angular and React.",
       "contact1": "Did you like my profile? Want to get to know me a little more?",
       "contact2": "Don't hesitate to send me a message, I'm waiting for you ;)",
       "mailMe": "Mail to Gabriel",
