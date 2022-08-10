@@ -18,10 +18,10 @@ class Experience extends Component {
             date={work.years}
             iconStyle={{
               background: "#AE944F",
-              color: "#fff",
+              color: "#fff", 
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={<i className="fab fa-bandcamp experience-icon"></i>}
             key={i}
           >
 
