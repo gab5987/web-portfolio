@@ -1,31 +1,31 @@
 {
     "basic_info": {
-      "description_header": "Olá",
-      "description": "👋 Me chamo Gabriel Novalski. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nisi, volutpat eget ultrices ut, tempor faucibus tellus. Sed consequat ex rhoncus dignissim posuere. Integer malesuada eros vestibulum ornare blandit. ",
-      "contact1": "Gostou do meu perfil? Quer me conhecer um pouco mais?",
-      "contact2": "Não hesite em me mandar uma mensagem, estou te esperando ;)",
-      "mailMe": "Enviar email para Gabriel",
+      "description_header": "Hi",
+      "description": "👋 I'm Gabriel Novalski. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nisi, volutpat eget ultrices ut, tempor faucibus tellus. Sed consequat ex rhoncus dignissim posuere. Integer malesuada eros vestibulum ornare blandit. ",
+      "contact1": "Did you like my profile? Want to get to know me a little more?",
+      "contact2": "Don't hesitate to send me a message, I'm waiting for you ;)",
+      "mailMe": "Mail to Gabriel",
       "section_name": {
-        "about": "Um pouco sobre mim",
-        "skills": "Meus conhecimentos",
-        "experience": "Minha Trajetória",
-        "contact": "Já que você chegou até aqui, vamos Conversar?"
+        "about": "About me",
+        "skills": "Skills",
+        "experience": "My trajectory",
+        "contact": "Since you've come this far, let's talk?"
       }
     },
     "experience": [
       {
         "company": "IFSC - Instituto Federal de Santa Catarina",
-        "title": "Curso Técnico Integrado em Eletrônica",
+        "title": "Electronics voctional course",
         "years": "07 / 2018 - 09 / 2022"
       },
       {
         "company": "Udemy.com",
-        "title": "curso de JavaScript / TypeScript",
+        "title": "JavaScript / TypeScript voctional course",
         "years": "06 / 2022 - present"
       },
       {
-        "company": "Universidade Estácio de Sá ",
-        "title": "Engenharia de Software - Bacharelado",
+        "company": "Estácio de Sá University",
+        "title": "Software Engineering - Bachelor",
         "years": "08 / 2022 - present"
       }
     ]
