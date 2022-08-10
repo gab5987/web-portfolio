@@ -1,10 +1,12 @@
 import React, { Component } from "react";
 import $ from "jquery";
 import "./App.scss";
+
 import Header from "./components/Header";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Footer from "./components/Footer";
+import Experience from "./components/Experience";
 
 
 
@@ -124,6 +126,10 @@ class App extends Component {
         />
         <Skills
           sharedSkills={this.state.sharedData.skills}
+          resumeBasicInfo={this.state.resumeData.basic_info}
+        />
+        <Experience
+          resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />

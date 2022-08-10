@@ -4,7 +4,25 @@
       "description": "👋 I'm Gabriel Novalski. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nisi, volutpat eget ultrices ut, tempor faucibus tellus. Sed consequat ex rhoncus dignissim posuere. Integer malesuada eros vestibulum ornare blandit. ",
       "section_name": {
         "about": "About me",
-        "skills": "Skills"
+        "skills": "Skills",
+        "experience": "My trajectory"
       }
-    }
+    },
+    "experience": [
+      {
+        "company": "IFSC - Instituto Federal de Santa Catarina",
+        "title": "Electronics voctional course",
+        "years": "07 / 2018 - 09 / 2022"
+      },
+      {
+        "company": "Udemy.com",
+        "title": "JavaScript / TypeScript voctional course",
+        "years": "06 / 2022 - present"
+      },
+      {
+        "company": "Estácio de Sá University",
+        "title": "Software Engineering - Bachelor",
+        "years": "08 / 2022 - present"
+      }
+    ]
   }
