@@ -2,13 +2,14 @@
     "basic_info": {
       "description_header": "Hi",
       "description": "👋 I'm Gabriel Novalski. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nisi, volutpat eget ultrices ut, tempor faucibus tellus. Sed consequat ex rhoncus dignissim posuere. Integer malesuada eros vestibulum ornare blandit. ",
-      "contact": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nisi, volutpat eget ultrices ut, tempor faucibus tellus. Sed consequat ex rhoncus dignissim posuere. Integer malesuada eros vestibulum ornare blandit.",
+      "contact1": "Did you like my profile? Want to get to know me a little more?",
+      "contact2": "Don't hesitate to send me a message, I'm waiting for you ;)",
       "mailMe": "Mail to Gabriel",
       "section_name": {
         "about": "About me",
         "skills": "Skills",
         "experience": "My trajectory",
-        "contact": "Contact me!"
+        "contact": "Since you've come this far, let's talk?"
       }
     },
     "experience": [

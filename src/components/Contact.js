@@ -8,7 +8,8 @@ class Contact extends Component {
     }
     if (this.props.resumeBasicInfo) {
         var sectionName = this.props.resumeBasicInfo.section_name.contact;
-        var contact = this.props.resumeBasicInfo.contact;
+        var contact1 = this.props.resumeBasicInfo.contact1;
+        var contact2 = this.props.resumeBasicInfo.contact2;
         var mailMe = this.props.resumeBasicInfo.mailMe;
       }
   
@@ -31,7 +32,7 @@ class Contact extends Component {
                         fontSize: "175%",
                         lineHeight: "200%",
                       }}
-                    >{contact} <br />
+                    >{contact1} <br /> {contact2} <br />
                     <a href={email}>{mailMe}</a>
                     </div>
                   </div>
