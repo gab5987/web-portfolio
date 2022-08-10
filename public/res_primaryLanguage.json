@@ -3,7 +3,8 @@
       "description_header": "Hi",
       "description": "👋 I'm Gabriel Novalski. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nisi, volutpat eget ultrices ut, tempor faucibus tellus. Sed consequat ex rhoncus dignissim posuere. Integer malesuada eros vestibulum ornare blandit. ",
       "section_name": {
-        "about": "About me"
+        "about": "About me",
+        "skills": "Skills"
       }
     }
   }

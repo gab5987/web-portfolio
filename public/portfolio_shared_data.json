@@ -14,5 +14,54 @@
         }
       ],
       "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "C ++",
+          "class": "devicon-cplusplus-plain",
+          "level": "95"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "95"
+        },
+        {
+          "name": "React Native",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Embedded C",
+          "class": "devicon-embeddedc-plain",
+          "level": "75"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "85"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "65"
+        },
+        {
+          "name": "Git - Github",
+          "class": "devicon-github-plain",
+          "level": "60"
+        }
+      ]
     }
   }

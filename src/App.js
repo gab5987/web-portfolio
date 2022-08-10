@@ -3,6 +3,8 @@ import $ from "jquery";
 import "./App.scss";
 import Header from "./components/Header";
 import About from "./components/About";
+import Skills from "./components/Skills";
+
 
 
 class App extends Component {
@@ -118,6 +120,10 @@ class App extends Component {
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
+        />
+        <Skills
+          sharedSkills={this.state.sharedData.skills}
+          resumeBasicInfo={this.state.resumeData.basic_info}
         />
       </div>
     );
