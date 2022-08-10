@@ -1,0 +1,18 @@
+{
+    "basic_info": {
+      "name": "Gabriel Gonçalves Novalski",
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/gab5987",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/gabnovalski/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    }
+  }
