@@ -11,6 +11,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com/gabnovalski/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/gabriel-novalski-8b0878240/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
