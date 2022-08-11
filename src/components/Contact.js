@@ -4,7 +4,7 @@ import { Icon } from "@iconify/react";
 class Contact extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-        var email = "mailto:" + this.props.sharedBasicInfo.email;
+        var email = this.props.sharedBasicInfo.email;
     }
     if (this.props.resumeBasicInfo) {
         var sectionName = this.props.resumeBasicInfo.section_name.contact;
@@ -32,8 +32,8 @@ class Contact extends Component {
                         fontSize: "175%",
                         lineHeight: "200%",
                       }}
-                    >{contact1} <br /> {contact2} <br />
-                    <a href={email}>{mailMe}</a>
+                      >{contact1} <br /> {contact2} <br />
+                      <button onClick={() => window.location.href = `mailto:${email}`}>{mailMe}</button>
                     </div>
                   </div>
                 </div>
