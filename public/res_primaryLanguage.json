@@ -121,6 +121,48 @@
             "name": "Embedded C"
           }
         ]
+      },
+      {
+        "title": "SCO MQTT Client Firmware",
+        "startDate": "2022",
+        "description": "Código desenvolvido para medir umidade e temperatura e publicar para um servidor utilizando o protocolo MQTT.",
+        "images": [
+          "images/SCO/cp1.JPG"
+        ],
+        "url": "https://github.com/gab5987/SCO-DevOps",
+        "technologies": [
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-embeddedc-plain",
+            "name": "Embedded C"
+          }
+        ]
+      },
+      {
+        "title": "SCO MQTT Dashboard",
+        "startDate": "2022",
+        "description": "Código desenvolvido para apresentar dados de um sensor de umidade e tempratura utilizando o protocolo MQTT.",
+        "images": [
+          "images/SCO/dp1.JPG", "images/SCO/dp2.JPG"
+        ],
+        "url": "https://github.com/lusqua/Communication_systems-Final_project",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
       }
     ]
 }
