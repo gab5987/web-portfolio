@@ -10,7 +10,12 @@ import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Projects from "./components/Projects";
 
-
+// prevents heroku's idle
+function keepAlive() {
+  setInterval(function() {
+    fetch('http://gabrielnovalski.herokuapp.com')
+  }, 20 * 60 * 1000); // load every 20 minutes
+}
 
 class App extends Component {
 
@@ -84,6 +89,9 @@ class App extends Component {
   }
 
   render() {
+
+    keepAlive();
+
     return (
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
