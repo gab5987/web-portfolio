@@ -127,7 +127,7 @@
         "startDate": "2022",
         "description": "Código desenvolvido para medir umidade e temperatura e publicar para um servidor utilizando o protocolo MQTT.",
         "images": [
-          "images/SCO/cp1.JPG"
+          "images/SCO/cp1.jpg"
         ],
         "url": "https://github.com/gab5987/SCO-DevOps",
         "technologies": [
@@ -146,7 +146,7 @@
         "startDate": "2022",
         "description": "Código desenvolvido para apresentar dados de um sensor de umidade e tempratura utilizando o protocolo MQTT.",
         "images": [
-          "images/SCO/dp1.JPG", "images/SCO/dp2.JPG"
+          "images/SCO/dp1.jpg", "images/SCO/dp2.jpg"
         ],
         "url": "https://github.com/lusqua/Communication_systems-Final_project",
         "technologies": [
