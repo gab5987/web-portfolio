@@ -10,7 +10,8 @@
         "about": "About me",
         "skills": "Skills",
         "experience": "My trajectory",
-        "contact": "Since you've come this far, let's talk?"
+        "contact": "Since you've come this far, let's talk?",
+        "projects": "Projects"
       }
     },
     "experience": [
@@ -28,6 +29,140 @@
         "company": "Estácio de Sá University",
         "title": "Software Engineering - Bachelor",
         "years": "08 / 2022 - present"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Creepy Caves Game",
+        "startDate": "2022",
+        "description": "Game developed entirely in C language using the Allegro 5 library during programming classes at IFSC, this being the final project of the subject.",
+        "images": [
+          "images/creepy-caves-game/p1.jpeg",
+          "images/creepy-caves-game/p2.jpeg"
+        ],
+        "url": "https://github.com/gab5987/Jogo-C",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+        ]
+      },
+      {
+        "title": "DMDC Stagging Server",
+        "startDate": "2022",
+        "description": "Server developed for an IoT voltage and current meter based on an ESP32 module during the mandatory IFSC internship with Professor Clovis Petry. STILL UNDER DEVELOPMENT!",
+        "images": [
+          "images/DMDC-Server/p1.png",
+          "images/DMDC-Server/p2.png",
+          "images/DMDC-Server/p3.png"
+        ],
+        "url": "https://github.com/DMDC-estagio/Dashboard-server",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "DMDC Mobile App",
+        "startDate": "2022",
+        "description": "App developed to visualize data from a server for an IoT voltage and current meter based on an ESP32 module during the mandatory IFSC internship with Professor Clovis Petry.",
+        "images": [
+          "images/DMDC-App/p1.png",
+          "images/DMDC-App/p2.png",
+          "images/DMDC-App/p3.png",
+          "images/DMDC-App/p4.png"
+        ],
+        "url": "https://github.com/DMDC-estagio/Dashboard-app",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "DMDC Client Firmware",
+        "startDate": "2022",
+        "description": "Code developed to measure voltage and current and send its data via http GET using an ESP32 module as a base during the mandatory IFSC internship with Professor Clovis Petry.",
+        "images": [
+          "images/DMDC-clientfirmware/p1.JPG"
+        ],
+        "url": "https://github.com/DMDC-estagio/clientFirmware",
+        "technologies": [
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-embeddedc-plain",
+            "name": "Embedded C"
+          }
+        ]
+      },
+      {
+        "title": "SCO MQTT Client Firmware",
+        "startDate": "2022",
+        "description": "Code developed to measure humidity and temperature and publish to a server using the MQTT protocol.",
+        "images": [
+          "images/SCO/cp1.JPG"
+        ],
+        "url": "https://github.com/gab5987/SCO-DevOps",
+        "technologies": [
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-embeddedc-plain",
+            "name": "Embedded C"
+          }
+        ]
+      },
+      {
+        "title": "SCO MQTT Dashboard",
+        "startDate": "2022",
+        "description": "Code developed to present data from a humidity and temperature sensor using the MQTT protocol.",
+        "images": [
+          "images/SCO/dp1.JPG", "images/SCO/dp2.JPG"
+        ],
+        "url": "https://github.com/lusqua/Communication_systems-Final_project",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
       }
     ]
   }
