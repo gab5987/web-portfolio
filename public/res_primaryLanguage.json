@@ -10,7 +10,8 @@
         "about": "Um pouco sobre mim",
         "skills": "Meus conhecimentos",
         "experience": "Minha Trajetória",
-        "contact": "Já que você chegou até aqui, vamos Conversar?"
+        "contact": "Já que você chegou até aqui, vamos Conversar?",
+        "projects": "Projetos"
       }
     },
     "experience": [
@@ -28,6 +29,98 @@
         "company": "Universidade Estácio de Sá ",
         "title": "Engenharia de Software - Bacharelado",
         "years": "08 / 2022 - present"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Creepy Caves Game",
+        "startDate": "2022",
+        "description": "Jogo desenvolvido inteiramente na lignguagem C usando a biblioteca Allegro 5 durante as aulas de programação no IFSC, sendo este o projeto final da matéria.",
+        "images": [
+          "images/creepy-caves-game/p1.jpeg",
+          "images/creepy-caves-game/p2.jpeg"
+        ],
+        "url": "https://github.com/gab5987/Jogo-C",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+        ]
+      },
+      {
+        "title": "DMDC Stagging Server",
+        "startDate": "2022",
+        "description": "Servidor desenvolvido para um medidor de tensão e corrente alternada IoT usando como base um módulo ESP32 durante o estágio obrigatório do IFSC com o professor Clóvis Petry. AINDA EM DESENVOLVIMENTO!",
+        "images": [
+          "images/DMDC-Server/p1.png",
+          "images/DMDC-Server/p2.png",
+          "images/DMDC-Server/p3.png"
+        ],
+        "url": "https://github.com/DMDC-estagio/Dashboard-server",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "DMDC Mobile App",
+        "startDate": "2022",
+        "description": "App desenvolvido para visualisar dados de um servidor para um medidor de tensão e corrente alternada IoT usando como base um módulo ESP32 durante o estágio obrigatório do IFSC com o professor Clóvis Petry.",
+        "images": [
+          "images/DMDC-App/p1.png",
+          "images/DMDC-App/p2.png",
+          "images/DMDC-App/p3.png",
+          "images/DMDC-App/p4.png"
+        ],
+        "url": "https://github.com/DMDC-estagio/Dashboard-app",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "DMDC Client Firmware",
+        "startDate": "2022",
+        "description": "Código desenvolvido para medir tensão e corrente alternada e enviar via http GET usando como base um módulo ESP32 durante o estágio obrigatório do IFSC com o professor Clóvis Petry.",
+        "images": [
+          "images/DMDC-clientfirmware/p1.JPG"
+        ],
+        "url": "https://github.com/DMDC-estagio/clientFirmware",
+        "technologies": [
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-embeddedc-plain",
+            "name": "Embedded C"
+          }
+        ]
       }
     ]
 }
