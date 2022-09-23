@@ -29,12 +29,12 @@
           "level": "95"
         },
         {
-          "name": "C",
-          "class": "devicon-c-plain",
+          "name": "GO",
+          "class": "devicon-go-line",
           "level": "95"
         },
         {
-          "name": "React Native",
+          "name": "React",
           "class": "devicon-react-plain",
           "level": "80"
         },
