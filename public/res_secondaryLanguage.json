@@ -33,6 +33,64 @@
     ],
     "projects": [
       {
+        "title": "Wstation - api",
+        "startDate": "2022",
+        "description": "App developed to control the weather station. The app is responsible for receiving the data from the weather station and sending it to the database.",
+        "images": [
+          "images/wstation-api/p1.png", "images/wstation-api/p2.png"
+        ],
+        "url": "http://147.182.208.9:8080",
+        "technologies": [
+          {
+            "class": "devicon-go-plain",
+            "name": "GO lang"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Maraka website",
+        "startDate": "2022",
+        "description": "Webapp developed for Pousada Maraká.",
+        "images": [
+          "images/maraka-app/p1.png", "images/maraka-app/p2.png"
+        ],
+        "url": "https://www.pousadamaraka.com.br",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
         "title": "Creepy Caves Game",
         "startDate": "2022",
         "description": "Game developed entirely in C language using the Allegro 5 library during programming classes at IFSC, this being the final project of the subject.",

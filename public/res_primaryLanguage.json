@@ -33,6 +33,64 @@
     ],
     "projects": [
       {
+        "title": "Wstation - api",
+        "startDate": "2022",
+        "description": "API desenvolvida para rebeber, tratar e enviar dados de um sistema IoT para registro de temperatura e umidade.",
+        "images": [
+          "images/wstation-api/p1.png", "images/wstation-api/p2.png"
+        ],
+        "url": "http://147.182.208.9:8080",
+        "technologies": [
+          {
+            "class": "devicon-go-plain",
+            "name": "GO lang"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Maraka website",
+        "startDate": "2022",
+        "description": "Webapp desenvolvido para a Pousada Maraká.",
+        "images": [
+          "images/maraka-app/p1.png", "images/maraka-app/p2.png"
+        ],
+        "url": "https://www.pousadamaraka.com.br",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
         "title": "Creepy Caves Game",
         "startDate": "2022",
         "description": "Jogo desenvolvido inteiramente na lignguagem C usando a biblioteca Allegro 5 durante as aulas de programação no IFSC, sendo este o projeto final da matéria.",

@@ -24,43 +24,78 @@
     "skills": {
       "icons": [
         {
-          "name": "C ++",
-          "class": "devicon-cplusplus-plain",
+          "name": "Ruby",
+          "class": "devicon-ruby-plain colored",
           "level": "95"
         },
         {
           "name": "GO",
-          "class": "devicon-go-original-wordmark",
+          "class": "devicon-go-original-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "Rails",
+          "class": "devicon-rails-plain-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-plain-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "Css",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored",
+          "level": "95"
+        },
+        {
+          "name": "C ++",
+          "class": "devicon-cplusplus-plain colored",
           "level": "95"
         },
         {
           "name": "React",
-          "class": "devicon-react-plain",
+          "class": "devicon-react-plain colored",
           "level": "80"
         },
         {
           "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "class": "devicon-typescript-plain colored",
           "level": "90"
         },
         {
           "name": "JavaScript",
-          "class": "devicon-javascript-plain",
+          "class": "devicon-javascript-plain colored",
           "level": "70"
         },
         {
           "name": "PHP",
-          "class": "devicon-php-plain",
+          "class": "devicon-php-plain colored",
           "level": "75"
         },
         {
           "name": "Python",
-          "class": "devicon-python-plain",
+          "class": "devicon-python-plain colored",
           "level": "85"
         },
         {
           "name": "Node.js",
-          "class": "devicon-nodejs-plain",
+          "class": "devicon-nodejs-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
           "level": "65"
         },
         {
