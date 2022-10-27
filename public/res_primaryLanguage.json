@@ -33,6 +33,52 @@
     ],
     "projects": [
       {
+        "title": "Sistema de gestão para automação predial",
+        "startDate": "2022",
+        "description": "Sistema de gestão para automação predial desenvolvido para a Justiça federal de Santa Catarina, com o objetivo de gerenciar e controlar dispositivos de automação predial, e também gerar relatórios de consumo de energia, iluminção e afins.",
+        "images": [
+          "images/jfsc/p1.png"
+        ],
+        "url": "https://github.com/gab5987/dashboard-atomac",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React.Ts"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring-boot"
+          }
+        ]
+      },
+      {
+        "title": "Website logical group",
+        "startDate": "2022",
+        "description": "Website desenvolvido por mim e um colega para divulgar nosso trabalho como desenvolvedores.",
+        "images": [
+          "images/logical/p1.png", "images/logical/p2.png"
+        ],
+        "url": "https://logical-tecnologia.vercel.app",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React.Ts"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          }
+        ]
+      },
+      {
         "title": "Wstation - api",
         "startDate": "2022",
         "description": "API desenvolvida para rebeber, tratar e enviar dados de um sistema IoT para registro de temperatura e umidade.",

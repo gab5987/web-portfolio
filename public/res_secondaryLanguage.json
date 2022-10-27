@@ -33,6 +33,52 @@
     ],
     "projects": [
       {
+        "title": "Building management system",
+        "startDate": "2022",
+        "description": "A system developed for Justiça federal de Santa Catarina that allows the management of a building, such as the opening of doors, the control of the lights and the control of the temperature of the rooms, it alse generates reports of the consumption of the building.",
+        "images": [
+          "images/jfsc/p1.png"
+        ],
+        "url": "https://github.com/gab5987/dashboard-atomac",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React.Ts"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring-boot"
+          }
+        ]
+      },
+      {
+        "title": "Website logical group",
+        "startDate": "2022",
+        "description": "Website developed by me and a friend to showcase our work.",
+        "images": [
+          "images/logical/p1.png", "images/logical/p2.png"
+        ],
+        "url": "https://logical-tecnologia.vercel.app",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React.Ts"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          }
+        ]
+      },
+      {
         "title": "Wstation - api",
         "startDate": "2022",
         "description": "App developed to control the weather station. The app is responsible for receiving the data from the weather station and sending it to the database.",

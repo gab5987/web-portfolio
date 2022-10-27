@@ -19,7 +19,7 @@ class Header extends Component {
               </h1>
               <h1>
                 <TypeAnimation
-                  sequence={[ "Back-end Developer", 1000, "Software engineer student", 1000, "Electronics Technician", 1000 ]}
+                  sequence={[ "Full-Stack Developer", 1000, "Software engineer student", 1000, "Electronics Technician", 1000 ]}
                   style={{ fontSize: '0.7em' }}
                   wrapper="h2"
                   repeat={Infinity}
