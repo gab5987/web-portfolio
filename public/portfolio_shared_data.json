@@ -24,6 +24,11 @@
     "skills": {
       "icons": [
         {
+          "name": "Swift",
+          "class": "devicon-swift-plain colored",
+          "level": "95"
+        },
+        {
           "name": "Ruby",
           "class": "devicon-ruby-plain colored",
           "level": "95"
